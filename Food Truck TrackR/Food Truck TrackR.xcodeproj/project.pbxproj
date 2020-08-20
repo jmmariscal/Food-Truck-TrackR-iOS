@@ -16,6 +16,7 @@
 		AF23C7E724EE10B60081B805 /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF23C7E624EE10B60081B805 /* LogInViewController.swift */; };
 		AF23C7E924EE10CD0081B805 /* MapViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF23C7E824EE10CD0081B805 /* MapViewViewController.swift */; };
 		AF23C7EB24EE10EB0081B805 /* TruckDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF23C7EA24EE10EB0081B805 /* TruckDetailViewController.swift */; };
+		AF23C7ED24EE15960081B805 /* TruckRatingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF23C7EC24EE15960081B805 /* TruckRatingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		AF23C7E624EE10B60081B805 /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
 		AF23C7E824EE10CD0081B805 /* MapViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewViewController.swift; sourceTree = "<group>"; };
 		AF23C7EA24EE10EB0081B805 /* TruckDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruckDetailViewController.swift; sourceTree = "<group>"; };
+		AF23C7EC24EE15960081B805 /* TruckRatingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TruckRatingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				AF23C7E624EE10B60081B805 /* LogInViewController.swift */,
 				AF23C7E824EE10CD0081B805 /* MapViewViewController.swift */,
 				AF23C7EA24EE10EB0081B805 /* TruckDetailViewController.swift */,
+				AF23C7EC24EE15960081B805 /* TruckRatingViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF23C7E724EE10B60081B805 /* LogInViewController.swift in Sources */,
+				AF23C7ED24EE15960081B805 /* TruckRatingViewController.swift in Sources */,
 				AF23C7D524EE059E0081B805 /* Food_Truck_TrackR.xcdatamodeld in Sources */,
 				AF23C7EB24EE10EB0081B805 /* TruckDetailViewController.swift in Sources */,
 				AF23C7CB24EE059E0081B805 /* AppDelegate.swift in Sources */,
